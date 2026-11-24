@@ -1,0 +1,890 @@
+{
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "registry": null,
+  "briefs": [
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "NVDAc",
+      "name": "NVIDIA Corporation",
+      "contract": "0xb20000000000000000000078ee7ce2fE4908108C",
+      "isin": "US67066G1040",
+      "multiplier": 1.0005379395763694,
+      "totalSupply": 66046.57158266,
+      "navPrice": 162.90003367,
+      "navUpdatedAt": "2026-11-24T06:24:01Z",
+      "dex": {
+        "priceUsd": 163.55,
+        "change24h": 21.87,
+        "change6h": -1.52,
+        "change1h": -0.35,
+        "volume24h": 38531394.38,
+        "liquidityUsd": 1871860.9,
+        "dex": "aero",
+        "pairAddress": "0xF668e21993f0ACd7ab00BB1cFbAeD0df28A3C8EC",
+        "url": "https://dexscreener.com/base/0xf668e21993f0acd7ab00bb1cfbaed0df28a3c8ec"
+      },
+      "premiumPct": 0.39899705074137837,
+      "components": {
+        "momentum": 87.48,
+        "liquidity": 99,
+        "nav": 80,
+        "adoption": 100
+      },
+      "score": 91,
+      "verdict": "Strong watch",
+      "reasons": [
+        "Momentum: 24h +21.87%",
+        "Market health: 24h vol $$38.53M, liquidity $$1.87M",
+        "NAV: tracks NAV tightly (0.40%)",
+        "Adoption: supply 66.0K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x8e9dd1e16787c3c7a2daf127bca1b8ed524df1fb2b150bc8abf5bff70217dbda"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "GOOGLc",
+      "name": "Alphabet Inc.",
+      "contract": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "isin": "US02079K3059",
+      "multiplier": 1.0003771186767842,
+      "totalSupply": 36318.65282438,
+      "navPrice": 286.33624689,
+      "navUpdatedAt": "2026-11-24T05:36:51Z",
+      "dex": {
+        "priceUsd": 285.84,
+        "change24h": 3.97,
+        "change6h": 0.64,
+        "change1h": 0.02,
+        "volume24h": 17064053.95,
+        "liquidityUsd": 1548679.97,
+        "dex": "aero",
+        "pairAddress": "0x16c70F04C3080a127486Cdf5a4C33c066bBF47C3",
+        "url": "https://dexscreener.com/base/0x16c70f04c3080a127486cdf5a4c33c066bbf47c3"
+      },
+      "premiumPct": -0.17330914105004983,
+      "components": {
+        "momentum": 15.88,
+        "liquidity": 98,
+        "nav": 80,
+        "adoption": 96
+      },
+      "score": 68,
+      "verdict": "Strong watch",
+      "reasons": [
+        "Momentum: 24h +3.97%",
+        "Market health: 24h vol $$17.06M, liquidity $$1.55M",
+        "NAV: tracks NAV tightly (-0.17%)",
+        "Adoption: supply 36.3K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x3a0920f60641a3753a6166cb2a118a62dcd1f68150047a826a7c6b963b2a53ee"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "SPCXc",
+      "name": "Space Exploration Technologies Corp.",
+      "contract": "0xb2000000000000000000007b9fcbd005511aCBd5",
+      "isin": "US84615Q1031",
+      "multiplier": 1,
+      "totalSupply": 30461.07064765,
+      "navPrice": 134.49651946,
+      "navUpdatedAt": "2026-11-24T04:47:33Z",
+      "dex": {
+        "priceUsd": 134.56,
+        "change24h": 2.13,
+        "change6h": 0.1,
+        "change1h": -0.12,
+        "volume24h": 13845792.52,
+        "liquidityUsd": 1165604.61,
+        "dex": "aero",
+        "pairAddress": "0x880dB7Dda4407D99508574E680d067D1164B3cFE",
+        "url": "https://dexscreener.com/base/0x880db7dda4407d99508574e680d067d1164b3cfe"
+      },
+      "premiumPct": 0.04719864889803333,
+      "components": {
+        "momentum": 8.52,
+        "liquidity": 97,
+        "nav": 80,
+        "adoption": 92
+      },
+      "score": 65,
+      "verdict": "Strong watch",
+      "reasons": [
+        "Momentum: 24h +2.13%",
+        "Market health: 24h vol $$13.85M, liquidity $$1.17M",
+        "NAV: tracks NAV tightly (0.05%)",
+        "Adoption: supply 30.5K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xcb53ea5da4f5532cdb3e39453455d160610442aac74ee6a5858c545bf6fb6d2c"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "MSTRc",
+      "name": "Strategy Inc.",
+      "contract": "0xb2000000000000000000004884b426556b92883d",
+      "isin": "US5949724083",
+      "multiplier": 1,
+      "totalSupply": 23901.97804302,
+      "navPrice": 82.6651503,
+      "navUpdatedAt": "2026-11-24T06:03:27Z",
+      "dex": {
+        "priceUsd": 82.45,
+        "change24h": -2.14,
+        "change6h": -2.7,
+        "change1h": -0.96,
+        "volume24h": 17291135.57,
+        "liquidityUsd": 477737.1,
+        "dex": "aero",
+        "pairAddress": "0x66DCd42E6314B287110922AE36cB2a8bdEECc153",
+        "url": "https://dexscreener.com/base/0x66dcd42e6314b287110922ae36cb2a8bdeecc153"
+      },
+      "premiumPct": -0.26026723379705824,
+      "components": {
+        "momentum": -8.56,
+        "liquidity": 92,
+        "nav": 80,
+        "adoption": 86
+      },
+      "score": 58,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h -2.14%",
+        "Market health: 24h vol $$17.29M, liquidity $$477.7K",
+        "NAV: tracks NAV tightly (-0.26%)",
+        "Adoption: supply 23.9K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xb6d6c6415751ddf84dcb2ffb6fe1dabbf50ee7808f17cbb2d7f5ca9d50a19b0f"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "HIMSc",
+      "name": "Hims & Hers Health, Inc.",
+      "contract": "0xB20000000000000000000043a599976181Bcf336",
+      "isin": "US4330001060",
+      "multiplier": 1,
+      "totalSupply": 21051.74060202,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 15.19,
+        "change24h": -0.28,
+        "change6h": 0.44,
+        "change1h": -0.12,
+        "volume24h": 1933567.34,
+        "liquidityUsd": 253396.99,
+        "dex": "aero",
+        "pairAddress": "0x41D7793FAa4Ca181B6f021423fF3F9015C00b2ff",
+        "url": "https://dexscreener.com/base/0x41d7793faa4ca181b6f021423ff3f9015c00b2ff"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": -1.12,
+        "liquidity": 84,
+        "nav": 0,
+        "adoption": 83
+      },
+      "score": 37,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h -0.28%",
+        "Market health: 24h vol $$1.93M, liquidity $$253.4K",
+        "NAV: no NAV reference available",
+        "Adoption: supply 21.1K tokens"
+      ],
+      "riskFlags": [
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xcdb407d991129580fcec70e679194a0a865a6c178b5877a1a5363a5749533e1f"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "ANTc",
+      "name": "Anthropic, PBC",
+      "contract": "0xb20000000000000000000016e38FD364d271Ba28",
+      "isin": "US03703U1079",
+      "multiplier": 1,
+      "totalSupply": 18546.59938358,
+      "navPrice": 85.9631623,
+      "navUpdatedAt": "2026-11-24T06:46:10Z",
+      "dex": {
+        "priceUsd": 86.025,
+        "change24h": -5.87,
+        "change6h": -1.5,
+        "change1h": -0.28,
+        "volume24h": 12023965.21,
+        "liquidityUsd": 1175502.33,
+        "dex": "aero",
+        "pairAddress": "0x599C4225FE90214795a0be228D20d7680f8CED15",
+        "url": "https://dexscreener.com/base/0x599c4225fe90214795a0be228d20d7680f8ced15"
+      },
+      "premiumPct": 0.0719351153976944,
+      "components": {
+        "momentum": -23.48,
+        "liquidity": 97,
+        "nav": 80,
+        "adoption": 80
+      },
+      "score": 53,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h -5.87%",
+        "Market health: 24h vol $$12.02M, liquidity $$1.18M",
+        "NAV: tracks NAV tightly (0.07%)",
+        "Adoption: supply 18.5K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xcda25e118993172f5c5ab59ab43652ed12c897fed42d41906665dda81aad94eb"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "NIOc",
+      "name": "NIO Inc.",
+      "contract": "0xb2000000000000000000002D2B5dc53c61f1bA06",
+      "isin": "US62914V1061",
+      "multiplier": 1,
+      "totalSupply": 15319,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 2.54,
+        "change24h": -1.14,
+        "change6h": -0.37,
+        "change1h": null,
+        "volume24h": 12.87,
+        "liquidityUsd": 51481.31,
+        "dex": "aerodrome",
+        "pairAddress": "0x484cc2CA594ced3fE38362FE950C60cE66f53F6D",
+        "url": "https://dexscreener.com/base/0x484cc2ca594ced3fe38362fe950c60ce66f53f6d"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": -4.56,
+        "liquidity": 21,
+        "nav": 0,
+        "adoption": 76
+      },
+      "score": 19,
+      "verdict": "Neutral",
+      "reasons": [
+        "Momentum: 24h -1.14%",
+        "Market health: 24h vol $$13, liquidity $$51.5K",
+        "NAV: no NAV reference available",
+        "Adoption: supply 15.3K tokens"
+      ],
+      "riskFlags": [
+        "thin liquidity (< $100K)",
+        "very low 24h volume (< $10K)",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xc63601920942c0b3bd3c5d97ca0fee7fabf0c9414b49aeef95d53329e23b696f"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "DJTc",
+      "name": "Trump Media & Technology Group Corp.",
+      "contract": "0xb200000000000000000000428E3a3eebBb20692B",
+      "isin": "US25400Q1058",
+      "multiplier": 1,
+      "totalSupply": 9780.91291285,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 4.17,
+        "change24h": null,
+        "change6h": null,
+        "change1h": null,
+        "volume24h": 0.05,
+        "liquidityUsd": 44.59,
+        "dex": "uniswap",
+        "pairAddress": "0xd956fb3ea061e605763832614cff19f4f8f4d98b7c5959d5e25b19a4da57026c",
+        "url": "https://dexscreener.com/base/0xd956fb3ea061e605763832614cff19f4f8f4d98b7c5959d5e25b19a4da57026c"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": 0,
+        "liquidity": 0,
+        "nav": 0,
+        "adoption": 66
+      },
+      "score": 13,
+      "verdict": "Neutral",
+      "reasons": [
+        "Momentum: no 24h change data",
+        "Market health: 24h vol $$0, liquidity $$45",
+        "NAV: no NAV reference available",
+        "Adoption: supply 9.8K tokens"
+      ],
+      "riskFlags": [
+        "thin liquidity (< $100K)",
+        "very low 24h volume (< $10K)",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x6b652cd6b7d3e0ead566427bd5e4611dae5e12ffc5f6cb0a6cc604203a16a8e7"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "AMZNc",
+      "name": "Amazon.com Inc.",
+      "contract": "0xb200000000000000000000d9192b6B456483C2E8",
+      "isin": "US0231351067",
+      "multiplier": 1,
+      "totalSupply": 9522.50295316,
+      "navPrice": 257.79997752,
+      "navUpdatedAt": "2026-11-24T06:44:26Z",
+      "dex": {
+        "priceUsd": 257.67,
+        "change24h": 1.09,
+        "change6h": 0.51,
+        "change1h": 0.18,
+        "volume24h": 16485716.57,
+        "liquidityUsd": 1548919.94,
+        "dex": "aero",
+        "pairAddress": "0x532e0F46d1e528507FC9454d5847C231f23bDDf6",
+        "url": "https://dexscreener.com/base/0x532e0f46d1e528507fc9454d5847c231f23bddf6"
+      },
+      "premiumPct": -0.05041797181302224,
+      "components": {
+        "momentum": 4.36,
+        "liquidity": 98,
+        "nav": 80,
+        "adoption": 65
+      },
+      "score": 59,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h +1.09%",
+        "Market health: 24h vol $$16.49M, liquidity $$1.55M",
+        "NAV: tracks NAV tightly (-0.05%)",
+        "Adoption: supply 9.5K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x0ab9b561d2b239fb8b2336b30cb395ea8de6b8811a2155f0896beac60494141d"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "AMCc",
+      "name": "AMC Entertainment Holdings, Inc.",
+      "contract": "0xB200000000000000000000CD7e6b8042cb7c2BB5",
+      "isin": "US00165C3025",
+      "multiplier": 1,
+      "totalSupply": 9299.84104696,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": null,
+      "premiumPct": null,
+      "components": {
+        "momentum": 0,
+        "liquidity": 0,
+        "nav": 0,
+        "adoption": 65
+      },
+      "score": 13,
+      "verdict": "Neutral",
+      "reasons": [
+        "Momentum: no 24h change data",
+        "Market health: 24h vol $n/a, liquidity $n/a",
+        "NAV: no NAV reference available",
+        "Adoption: supply 9.3K tokens"
+      ],
+      "riskFlags": [
+        "no live DEX market found on Base",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xf21b7038494c314f1bf27b1b9f8269cb5cbda726c21fb066822d67246974ba6b"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "METAc",
+      "name": "Meta Platforms Inc.",
+      "contract": "0xb2000000000000000000008bC8786B856E61707C",
+      "isin": "US30303M1027",
+      "multiplier": 1.0003137922895982,
+      "totalSupply": 9038.50713085,
+      "navPrice": 601.84274375,
+      "navUpdatedAt": "2026-11-24T04:13:18Z",
+      "dex": {
+        "priceUsd": 602.81,
+        "change24h": 4.34,
+        "change6h": 0.6,
+        "change1h": 0.09,
+        "volume24h": 12635768.69,
+        "liquidityUsd": 757858.77,
+        "dex": "aero",
+        "pairAddress": "0xd072410fa13D242e1d53721Bcf7AF02e3455DC96",
+        "url": "https://dexscreener.com/base/0xd072410fa13d242e1d53721bcf7af02e3455dc96"
+      },
+      "premiumPct": 0.16071577833989484,
+      "components": {
+        "momentum": 17.36,
+        "liquidity": 95,
+        "nav": 80,
+        "adoption": 64
+      },
+      "score": 62,
+      "verdict": "Strong watch",
+      "reasons": [
+        "Momentum: 24h +4.34%",
+        "Market health: 24h vol $$12.64M, liquidity $$757.9K",
+        "NAV: tracks NAV tightly (0.16%)",
+        "Adoption: supply 9.0K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xec9caec7cf29b53acf8033ab3ec6d04adb753f3feb86df8572b6c822f0075676"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "NFLXc",
+      "name": "Netflix Inc",
+      "contract": "0xb20000000000000000000058B8c947e44011dFE6",
+      "isin": "US64110L1061",
+      "multiplier": 1,
+      "totalSupply": 8383.98804665,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 58.19,
+        "change24h": 1.64,
+        "change6h": 0.15,
+        "change1h": -0.03,
+        "volume24h": 2239097.77,
+        "liquidityUsd": 310223.17,
+        "dex": "aero",
+        "pairAddress": "0x67Ba8dBeDC6D7f93f0F5967Aa2420715f1edC756",
+        "url": "https://dexscreener.com/base/0x67ba8dbedc6d7f93f0f5967aa2420715f1edc756"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": 6.56,
+        "liquidity": 86,
+        "nav": 0,
+        "adoption": 63
+      },
+      "score": 36,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h +1.64%",
+        "Market health: 24h vol $$2.24M, liquidity $$310.2K",
+        "NAV: no NAV reference available",
+        "Adoption: supply 8.4K tokens"
+      ],
+      "riskFlags": [
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x95581d2392aeabbb4c134dc6ecc3ddea6fa376c001870b14ff7a4aada4271967"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "WRDc",
+      "name": "WeRide Inc.",
+      "contract": "0xb200000000000000000000e88EFe88D8aDE3f0dA",
+      "isin": "US9509151083",
+      "multiplier": 1,
+      "totalSupply": 7504,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 3.12,
+        "change24h": 0.32,
+        "change6h": -1.36,
+        "change1h": null,
+        "volume24h": 98.94,
+        "liquidityUsd": 40710.37,
+        "dex": "aerodrome",
+        "pairAddress": "0xbc440AFf9A79cCed69d5B21c7B71e60BD0278EFB",
+        "url": "https://dexscreener.com/base/0xbc440aff9a79cced69d5b21c7b71e60bd0278efb"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": 1.28,
+        "liquidity": 19,
+        "nav": 0,
+        "adoption": 60
+      },
+      "score": 17,
+      "verdict": "Neutral",
+      "reasons": [
+        "Momentum: 24h +0.32%",
+        "Market health: 24h vol $$99, liquidity $$40.7K",
+        "NAV: no NAV reference available",
+        "Adoption: supply 7.5K tokens"
+      ],
+      "riskFlags": [
+        "thin liquidity (< $100K)",
+        "very low 24h volume (< $10K)",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xa0e2d149fc88910c28050e0c432879f5db5076287f6b816ada7c45d0638d6258"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "GMEc",
+      "name": "GameStop Corp.",
+      "contract": "0xb2000000000000000000007790ed6E48e06eD935",
+      "isin": "US36467W1099",
+      "multiplier": 1,
+      "totalSupply": 6490.00732968,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 27.0026,
+        "change24h": 0.01,
+        "change6h": null,
+        "change1h": null,
+        "volume24h": 1659.66,
+        "liquidityUsd": 540.91,
+        "dex": "aerodrome",
+        "pairAddress": "0xbBe3491582DD226bB35C6bC14AfB825941390f45",
+        "url": "https://dexscreener.com/base/0xbbe3491582dd226bb35c6bc14afb825941390f45"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": 0.04,
+        "liquidity": 4,
+        "nav": 0,
+        "adoption": 57
+      },
+      "score": 12,
+      "verdict": "Neutral",
+      "reasons": [
+        "Momentum: 24h +0.01%",
+        "Market health: 24h vol $$1.7K, liquidity $$541",
+        "NAV: no NAV reference available",
+        "Adoption: supply 6.5K tokens"
+      ],
+      "riskFlags": [
+        "thin liquidity (< $100K)",
+        "very low 24h volume (< $10K)",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x86bc66b8beb8c917977fc5fa9d6eb19213eb3d38fccf21368a2b99bfddae8282"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "NOKc",
+      "name": "Nokia Corporation",
+      "contract": "0xB2000000000000000000005ac674f707E357409c",
+      "isin": "US6549022043",
+      "multiplier": 1.0019604756256093,
+      "totalSupply": 6175.26255704,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 7.54,
+        "change24h": 5.16,
+        "change6h": -0.14,
+        "change1h": null,
+        "volume24h": 8153.11,
+        "liquidityUsd": 52764.88,
+        "dex": "aerodrome",
+        "pairAddress": "0xc541eAc49f32D46C1E2f88952f22215Ef0f2Db71",
+        "url": "https://dexscreener.com/base/0xc541eac49f32d46c1e2f88952f22215ef0f2db71"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": 20.64,
+        "liquidity": 36,
+        "nav": 0,
+        "adoption": 56
+      },
+      "score": 26,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h +5.16%",
+        "Market health: 24h vol $$8.2K, liquidity $$52.8K",
+        "NAV: no NAV reference available",
+        "Adoption: supply 6.2K tokens"
+      ],
+      "riskFlags": [
+        "thin liquidity (< $100K)",
+        "very low 24h volume (< $10K)",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x87179f9f75453dcebf35c23cec810231e7801418c807069d93858b405586186f"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "TSLAc",
+      "name": "Tesla Inc.",
+      "contract": "0xb2000000000000000000001e800a7f5189430cD0",
+      "isin": "US88160R1014",
+      "multiplier": 1,
+      "totalSupply": 6162.03995169,
+      "navPrice": 387.04962421,
+      "navUpdatedAt": "2026-11-24T05:02:18Z",
+      "dex": {
+        "priceUsd": 387.87,
+        "change24h": 8.03,
+        "change6h": 0.21,
+        "change1h": 0.05,
+        "volume24h": 7629911.18,
+        "liquidityUsd": 424198.38,
+        "dex": "aero",
+        "pairAddress": "0x7A33000372f3F028f074182CCb9d16cBEEfBF920",
+        "url": "https://dexscreener.com/base/0x7a33000372f3f028f074182ccb9d16cbeefbf920"
+      },
+      "premiumPct": 0.21195622955957352,
+      "components": {
+        "momentum": 32.12,
+        "liquidity": 92,
+        "nav": 80,
+        "adoption": 56
+      },
+      "score": 64,
+      "verdict": "Strong watch",
+      "reasons": [
+        "Momentum: 24h +8.03%",
+        "Market health: 24h vol $$7.63M, liquidity $$424.2K",
+        "NAV: tracks NAV tightly (0.21%)",
+        "Adoption: supply 6.2K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xf876479eea28765525a968d25cc98f68914d9a935743570b073e3bfe4ce3bc08"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "AAPLc",
+      "name": "Apple Inc.",
+      "contract": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "isin": "US0378331005",
+      "multiplier": 1.0005003893019802,
+      "totalSupply": 5897.22411184,
+      "navPrice": 350.49029387,
+      "navUpdatedAt": "2026-11-23T19:31:58Z",
+      "dex": {
+        "priceUsd": 351.16,
+        "change24h": 1.52,
+        "change6h": 0.47,
+        "change1h": 0.16,
+        "volume24h": 8270089.15,
+        "liquidityUsd": 420783.25,
+        "dex": "aero",
+        "pairAddress": "0xF5FCB9CDAFcE67d50AfEf298F88E709d2B946BA6",
+        "url": "https://dexscreener.com/base/0xf5fcb9cdafce67d50afef298f88e709d2b946ba6"
+      },
+      "premiumPct": 0.19107694042118287,
+      "components": {
+        "momentum": 6.08,
+        "liquidity": 91,
+        "nav": 80,
+        "adoption": 55
+      },
+      "score": 56,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h +1.52%",
+        "Market health: 24h vol $$8.27M, liquidity $$420.8K",
+        "NAV: tracks NAV tightly (0.19%)",
+        "Adoption: supply 5.9K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x3ef6bfd078bb50e427ec922a90dca88c1aabe2ae04e1647e61fd83d452aa047b"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "VALEc",
+      "name": "Vale S.A.",
+      "contract": "0xB20000000000000000000063376b142C0764B489",
+      "isin": "US91912E1055",
+      "multiplier": 1,
+      "totalSupply": 3503,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 9.82,
+        "change24h": 1.66,
+        "change6h": -0.1,
+        "change1h": null,
+        "volume24h": null,
+        "liquidityUsd": 40690.8,
+        "dex": "aerodrome",
+        "pairAddress": "0x0F48336b76ee52Fa6bb19edf5AF358529Df57574",
+        "url": "https://dexscreener.com/base/0x0f48336b76ee52fa6bb19edf5af358529df57574"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": 6.64,
+        "liquidity": 19,
+        "nav": 0,
+        "adoption": 44
+      },
+      "score": 16,
+      "verdict": "Neutral",
+      "reasons": [
+        "Momentum: 24h +1.66%",
+        "Market health: 24h vol $n/a, liquidity $$40.7K",
+        "NAV: no NAV reference available",
+        "Adoption: supply 3.5K tokens"
+      ],
+      "riskFlags": [
+        "thin liquidity (< $100K)",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x24d580b20ad911fb0881694fa0848a2e68987d15825b346b3e3417773e262d0a"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "SNDKc",
+      "name": "Sandisk Corporation",
+      "contract": "0xb200000000000000000000397293Cb8cda9a10c5",
+      "isin": "US80004C2008",
+      "multiplier": 8,
+      "totalSupply": 3159.53853669,
+      "navPrice": 702.33671848,
+      "navUpdatedAt": "2026-11-24T06:34:54Z",
+      "dex": {
+        "priceUsd": 705.56,
+        "change24h": 4.97,
+        "change6h": null,
+        "change1h": 0.64,
+        "volume24h": 33997219.94,
+        "liquidityUsd": 1539696.02,
+        "dex": "aero",
+        "pairAddress": "0x2836e062a3fe75943a7F4A552E2365b98E414E75",
+        "url": "https://dexscreener.com/base/0x2836e062a3fe75943a7f4a552e2365b98e414e75"
+      },
+      "premiumPct": 0.4589367799217218,
+      "components": {
+        "momentum": 19.88,
+        "liquidity": 98,
+        "nav": 80,
+        "adoption": 42
+      },
+      "score": 59,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h +4.97%",
+        "Market health: 24h vol $$34.00M, liquidity $$1.54M",
+        "NAV: tracks NAV tightly (0.46%)",
+        "Adoption: supply 3.2K tokens"
+      ],
+      "riskFlags": [],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0x31a3c8c2253772ada19afbe3cf39c481823061c95bd3d3ad7bf164c9b61d301e"
+    },
+    {
+      "agent": "StockSage",
+      "version": 1,
+      "runId": "2026-11-24T06-47-32Z",
+      "generatedAt": "2026-11-24T06:47:32.979Z",
+      "symbol": "AAOIc",
+      "name": "Applied Optoelectronics Inc",
+      "contract": "0xb200000000000000000000cf36D05963A3E2205c",
+      "isin": "US03823U1025",
+      "multiplier": 1,
+      "totalSupply": 3119.82727475,
+      "navPrice": null,
+      "navUpdatedAt": null,
+      "dex": {
+        "priceUsd": 39.44,
+        "change24h": 13.11,
+        "change6h": null,
+        "change1h": null,
+        "volume24h": 162.86,
+        "liquidityUsd": 214254.16,
+        "dex": "aero",
+        "pairAddress": "0xfb35D41801893197b5A4d477D0Bf6737D2AD6106",
+        "url": "https://dexscreener.com/base/0xfb35d41801893197b5a4d477d0bf6737d2ad6106"
+      },
+      "premiumPct": null,
+      "components": {
+        "momentum": 52.44,
+        "liquidity": 28,
+        "nav": 0,
+        "adoption": 42
+      },
+      "score": 31,
+      "verdict": "Watch",
+      "reasons": [
+        "Momentum: 24h +13.11%",
+        "Market health: 24h vol $$163, liquidity $$214.3K",
+        "NAV: no NAV reference available",
+        "Adoption: supply 3.1K tokens"
+      ],
+      "riskFlags": [
+        "very low 24h volume (< $10K)",
+        "no Chainlink NAV reference configured"
+      ],
+      "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+      "contentHash": "0xcde2f8a14a6b53cd4a5979729ce0272db6c2055c435f20c524da7787ecf30430"
+    }
+  ]
+}
