@@ -1,0 +1,47 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "NOKc",
+  "name": "Nokia Corporation",
+  "contract": "0xB2000000000000000000005ac674f707E357409c",
+  "isin": "US6549022043",
+  "multiplier": 1.0019604756256093,
+  "totalSupply": 6175.26255704,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 7.54,
+    "change24h": 5.16,
+    "change6h": -0.14,
+    "change1h": null,
+    "volume24h": 8153.11,
+    "liquidityUsd": 52764.88,
+    "dex": "aerodrome",
+    "pairAddress": "0xc541eAc49f32D46C1E2f88952f22215Ef0f2Db71",
+    "url": "https://dexscreener.com/base/0xc541eac49f32d46c1e2f88952f22215ef0f2db71"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": 20.64,
+    "liquidity": 36,
+    "nav": 0,
+    "adoption": 56
+  },
+  "score": 26,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h +5.16%",
+    "Market health: 24h vol $$8.2K, liquidity $$52.8K",
+    "NAV: no NAV reference available",
+    "Adoption: supply 6.2K tokens"
+  ],
+  "riskFlags": [
+    "thin liquidity (< $100K)",
+    "very low 24h volume (< $10K)",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x87179f9f75453dcebf35c23cec810231e7801418c807069d93858b405586186f"
+}

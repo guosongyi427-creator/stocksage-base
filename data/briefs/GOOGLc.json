@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "GOOGLc",
+  "name": "Alphabet Inc.",
+  "contract": "0xb2000000000000000000002D0BA3164cc74f58B7",
+  "isin": "US02079K3059",
+  "multiplier": 1.0003771186767842,
+  "totalSupply": 36318.65282438,
+  "navPrice": 286.33624689,
+  "navUpdatedAt": "2026-11-24T05:36:51Z",
+  "dex": {
+    "priceUsd": 285.84,
+    "change24h": 3.97,
+    "change6h": 0.64,
+    "change1h": 0.02,
+    "volume24h": 17064053.95,
+    "liquidityUsd": 1548679.97,
+    "dex": "aero",
+    "pairAddress": "0x16c70F04C3080a127486Cdf5a4C33c066bBF47C3",
+    "url": "https://dexscreener.com/base/0x16c70f04c3080a127486cdf5a4c33c066bbf47c3"
+  },
+  "premiumPct": -0.17330914105004983,
+  "components": {
+    "momentum": 15.88,
+    "liquidity": 98,
+    "nav": 80,
+    "adoption": 96
+  },
+  "score": 68,
+  "verdict": "Strong watch",
+  "reasons": [
+    "Momentum: 24h +3.97%",
+    "Market health: 24h vol $$17.06M, liquidity $$1.55M",
+    "NAV: tracks NAV tightly (-0.17%)",
+    "Adoption: supply 36.3K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x3a0920f60641a3753a6166cb2a118a62dcd1f68150047a826a7c6b963b2a53ee"
+}

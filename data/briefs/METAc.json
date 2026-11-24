@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "METAc",
+  "name": "Meta Platforms Inc.",
+  "contract": "0xb2000000000000000000008bC8786B856E61707C",
+  "isin": "US30303M1027",
+  "multiplier": 1.0003137922895982,
+  "totalSupply": 9038.50713085,
+  "navPrice": 601.84274375,
+  "navUpdatedAt": "2026-11-24T04:13:18Z",
+  "dex": {
+    "priceUsd": 602.81,
+    "change24h": 4.34,
+    "change6h": 0.6,
+    "change1h": 0.09,
+    "volume24h": 12635768.69,
+    "liquidityUsd": 757858.77,
+    "dex": "aero",
+    "pairAddress": "0xd072410fa13D242e1d53721Bcf7AF02e3455DC96",
+    "url": "https://dexscreener.com/base/0xd072410fa13d242e1d53721bcf7af02e3455dc96"
+  },
+  "premiumPct": 0.16071577833989484,
+  "components": {
+    "momentum": 17.36,
+    "liquidity": 95,
+    "nav": 80,
+    "adoption": 64
+  },
+  "score": 62,
+  "verdict": "Strong watch",
+  "reasons": [
+    "Momentum: 24h +4.34%",
+    "Market health: 24h vol $$12.64M, liquidity $$757.9K",
+    "NAV: tracks NAV tightly (0.16%)",
+    "Adoption: supply 9.0K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xec9caec7cf29b53acf8033ab3ec6d04adb753f3feb86df8572b6c822f0075676"
+}

@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "MSTRc",
+  "name": "Strategy Inc.",
+  "contract": "0xb2000000000000000000004884b426556b92883d",
+  "isin": "US5949724083",
+  "multiplier": 1,
+  "totalSupply": 23901.97804302,
+  "navPrice": 82.6651503,
+  "navUpdatedAt": "2026-11-24T06:03:27Z",
+  "dex": {
+    "priceUsd": 82.45,
+    "change24h": -2.14,
+    "change6h": -2.7,
+    "change1h": -0.96,
+    "volume24h": 17291135.57,
+    "liquidityUsd": 477737.1,
+    "dex": "aero",
+    "pairAddress": "0x66DCd42E6314B287110922AE36cB2a8bdEECc153",
+    "url": "https://dexscreener.com/base/0x66dcd42e6314b287110922ae36cb2a8bdeecc153"
+  },
+  "premiumPct": -0.26026723379705824,
+  "components": {
+    "momentum": -8.56,
+    "liquidity": 92,
+    "nav": 80,
+    "adoption": 86
+  },
+  "score": 58,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h -2.14%",
+    "Market health: 24h vol $$17.29M, liquidity $$477.7K",
+    "NAV: tracks NAV tightly (-0.26%)",
+    "Adoption: supply 23.9K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xb6d6c6415751ddf84dcb2ffb6fe1dabbf50ee7808f17cbb2d7f5ca9d50a19b0f"
+}

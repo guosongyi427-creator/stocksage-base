@@ -1,0 +1,47 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "GMEc",
+  "name": "GameStop Corp.",
+  "contract": "0xb2000000000000000000007790ed6E48e06eD935",
+  "isin": "US36467W1099",
+  "multiplier": 1,
+  "totalSupply": 6490.00732968,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 27.0026,
+    "change24h": 0.01,
+    "change6h": null,
+    "change1h": null,
+    "volume24h": 1659.66,
+    "liquidityUsd": 540.91,
+    "dex": "aerodrome",
+    "pairAddress": "0xbBe3491582DD226bB35C6bC14AfB825941390f45",
+    "url": "https://dexscreener.com/base/0xbbe3491582dd226bb35c6bc14afb825941390f45"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": 0.04,
+    "liquidity": 4,
+    "nav": 0,
+    "adoption": 57
+  },
+  "score": 12,
+  "verdict": "Neutral",
+  "reasons": [
+    "Momentum: 24h +0.01%",
+    "Market health: 24h vol $$1.7K, liquidity $$541",
+    "NAV: no NAV reference available",
+    "Adoption: supply 6.5K tokens"
+  ],
+  "riskFlags": [
+    "thin liquidity (< $100K)",
+    "very low 24h volume (< $10K)",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x86bc66b8beb8c917977fc5fa9d6eb19213eb3d38fccf21368a2b99bfddae8282"
+}

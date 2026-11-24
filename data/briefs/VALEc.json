@@ -1,0 +1,46 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "VALEc",
+  "name": "Vale S.A.",
+  "contract": "0xB20000000000000000000063376b142C0764B489",
+  "isin": "US91912E1055",
+  "multiplier": 1,
+  "totalSupply": 3503,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 9.82,
+    "change24h": 1.66,
+    "change6h": -0.1,
+    "change1h": null,
+    "volume24h": null,
+    "liquidityUsd": 40690.8,
+    "dex": "aerodrome",
+    "pairAddress": "0x0F48336b76ee52Fa6bb19edf5AF358529Df57574",
+    "url": "https://dexscreener.com/base/0x0f48336b76ee52fa6bb19edf5af358529df57574"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": 6.64,
+    "liquidity": 19,
+    "nav": 0,
+    "adoption": 44
+  },
+  "score": 16,
+  "verdict": "Neutral",
+  "reasons": [
+    "Momentum: 24h +1.66%",
+    "Market health: 24h vol $n/a, liquidity $$40.7K",
+    "NAV: no NAV reference available",
+    "Adoption: supply 3.5K tokens"
+  ],
+  "riskFlags": [
+    "thin liquidity (< $100K)",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x24d580b20ad911fb0881694fa0848a2e68987d15825b346b3e3417773e262d0a"
+}

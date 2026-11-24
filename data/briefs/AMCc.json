@@ -1,0 +1,36 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "AMCc",
+  "name": "AMC Entertainment Holdings, Inc.",
+  "contract": "0xB200000000000000000000CD7e6b8042cb7c2BB5",
+  "isin": "US00165C3025",
+  "multiplier": 1,
+  "totalSupply": 9299.84104696,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": null,
+  "premiumPct": null,
+  "components": {
+    "momentum": 0,
+    "liquidity": 0,
+    "nav": 0,
+    "adoption": 65
+  },
+  "score": 13,
+  "verdict": "Neutral",
+  "reasons": [
+    "Momentum: no 24h change data",
+    "Market health: 24h vol $n/a, liquidity $n/a",
+    "NAV: no NAV reference available",
+    "Adoption: supply 9.3K tokens"
+  ],
+  "riskFlags": [
+    "no live DEX market found on Base",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xf21b7038494c314f1bf27b1b9f8269cb5cbda726c21fb066822d67246974ba6b"
+}

@@ -1,0 +1,46 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "AAOIc",
+  "name": "Applied Optoelectronics Inc",
+  "contract": "0xb200000000000000000000cf36D05963A3E2205c",
+  "isin": "US03823U1025",
+  "multiplier": 1,
+  "totalSupply": 3119.82727475,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 39.44,
+    "change24h": 13.11,
+    "change6h": null,
+    "change1h": null,
+    "volume24h": 162.86,
+    "liquidityUsd": 214254.16,
+    "dex": "aero",
+    "pairAddress": "0xfb35D41801893197b5A4d477D0Bf6737D2AD6106",
+    "url": "https://dexscreener.com/base/0xfb35d41801893197b5a4d477d0bf6737d2ad6106"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": 52.44,
+    "liquidity": 28,
+    "nav": 0,
+    "adoption": 42
+  },
+  "score": 31,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h +13.11%",
+    "Market health: 24h vol $$163, liquidity $$214.3K",
+    "NAV: no NAV reference available",
+    "Adoption: supply 3.1K tokens"
+  ],
+  "riskFlags": [
+    "very low 24h volume (< $10K)",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xcde2f8a14a6b53cd4a5979729ce0272db6c2055c435f20c524da7787ecf30430"
+}

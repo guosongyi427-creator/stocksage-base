@@ -1,0 +1,47 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "NIOc",
+  "name": "NIO Inc.",
+  "contract": "0xb2000000000000000000002D2B5dc53c61f1bA06",
+  "isin": "US62914V1061",
+  "multiplier": 1,
+  "totalSupply": 15319,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 2.54,
+    "change24h": -1.14,
+    "change6h": -0.37,
+    "change1h": null,
+    "volume24h": 12.87,
+    "liquidityUsd": 51481.31,
+    "dex": "aerodrome",
+    "pairAddress": "0x484cc2CA594ced3fE38362FE950C60cE66f53F6D",
+    "url": "https://dexscreener.com/base/0x484cc2ca594ced3fe38362fe950c60ce66f53f6d"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": -4.56,
+    "liquidity": 21,
+    "nav": 0,
+    "adoption": 76
+  },
+  "score": 19,
+  "verdict": "Neutral",
+  "reasons": [
+    "Momentum: 24h -1.14%",
+    "Market health: 24h vol $$13, liquidity $$51.5K",
+    "NAV: no NAV reference available",
+    "Adoption: supply 15.3K tokens"
+  ],
+  "riskFlags": [
+    "thin liquidity (< $100K)",
+    "very low 24h volume (< $10K)",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xc63601920942c0b3bd3c5d97ca0fee7fabf0c9414b49aeef95d53329e23b696f"
+}

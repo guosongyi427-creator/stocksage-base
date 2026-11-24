@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "AMZNc",
+  "name": "Amazon.com Inc.",
+  "contract": "0xb200000000000000000000d9192b6B456483C2E8",
+  "isin": "US0231351067",
+  "multiplier": 1,
+  "totalSupply": 9522.50295316,
+  "navPrice": 257.79997752,
+  "navUpdatedAt": "2026-11-24T06:44:26Z",
+  "dex": {
+    "priceUsd": 257.67,
+    "change24h": 1.09,
+    "change6h": 0.51,
+    "change1h": 0.18,
+    "volume24h": 16485716.57,
+    "liquidityUsd": 1548919.94,
+    "dex": "aero",
+    "pairAddress": "0x532e0F46d1e528507FC9454d5847C231f23bDDf6",
+    "url": "https://dexscreener.com/base/0x532e0f46d1e528507fc9454d5847c231f23bddf6"
+  },
+  "premiumPct": -0.05041797181302224,
+  "components": {
+    "momentum": 4.36,
+    "liquidity": 98,
+    "nav": 80,
+    "adoption": 65
+  },
+  "score": 59,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h +1.09%",
+    "Market health: 24h vol $$16.49M, liquidity $$1.55M",
+    "NAV: tracks NAV tightly (-0.05%)",
+    "Adoption: supply 9.5K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x0ab9b561d2b239fb8b2336b30cb395ea8de6b8811a2155f0896beac60494141d"
+}

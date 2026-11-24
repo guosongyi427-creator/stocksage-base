@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "NVDAc",
+  "name": "NVIDIA Corporation",
+  "contract": "0xb20000000000000000000078ee7ce2fE4908108C",
+  "isin": "US67066G1040",
+  "multiplier": 1.0005379395763694,
+  "totalSupply": 66046.57158266,
+  "navPrice": 162.90003367,
+  "navUpdatedAt": "2026-11-24T06:24:01Z",
+  "dex": {
+    "priceUsd": 163.55,
+    "change24h": 21.87,
+    "change6h": -1.52,
+    "change1h": -0.35,
+    "volume24h": 38531394.38,
+    "liquidityUsd": 1871860.9,
+    "dex": "aero",
+    "pairAddress": "0xF668e21993f0ACd7ab00BB1cFbAeD0df28A3C8EC",
+    "url": "https://dexscreener.com/base/0xf668e21993f0acd7ab00bb1cfbaed0df28a3c8ec"
+  },
+  "premiumPct": 0.39899705074137837,
+  "components": {
+    "momentum": 87.48,
+    "liquidity": 99,
+    "nav": 80,
+    "adoption": 100
+  },
+  "score": 91,
+  "verdict": "Strong watch",
+  "reasons": [
+    "Momentum: 24h +21.87%",
+    "Market health: 24h vol $$38.53M, liquidity $$1.87M",
+    "NAV: tracks NAV tightly (0.40%)",
+    "Adoption: supply 66.0K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x8e9dd1e16787c3c7a2daf127bca1b8ed524df1fb2b150bc8abf5bff70217dbda"
+}

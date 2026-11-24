@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "ANTc",
+  "name": "Anthropic, PBC",
+  "contract": "0xb20000000000000000000016e38FD364d271Ba28",
+  "isin": "US03703U1079",
+  "multiplier": 1,
+  "totalSupply": 18546.59938358,
+  "navPrice": 85.9631623,
+  "navUpdatedAt": "2026-11-24T06:46:10Z",
+  "dex": {
+    "priceUsd": 86.025,
+    "change24h": -5.87,
+    "change6h": -1.5,
+    "change1h": -0.28,
+    "volume24h": 12023965.21,
+    "liquidityUsd": 1175502.33,
+    "dex": "aero",
+    "pairAddress": "0x599C4225FE90214795a0be228D20d7680f8CED15",
+    "url": "https://dexscreener.com/base/0x599c4225fe90214795a0be228d20d7680f8ced15"
+  },
+  "premiumPct": 0.0719351153976944,
+  "components": {
+    "momentum": -23.48,
+    "liquidity": 97,
+    "nav": 80,
+    "adoption": 80
+  },
+  "score": 53,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h -5.87%",
+    "Market health: 24h vol $$12.02M, liquidity $$1.18M",
+    "NAV: tracks NAV tightly (0.07%)",
+    "Adoption: supply 18.5K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xcda25e118993172f5c5ab59ab43652ed12c897fed42d41906665dda81aad94eb"
+}

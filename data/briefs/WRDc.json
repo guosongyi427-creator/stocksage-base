@@ -1,0 +1,47 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "WRDc",
+  "name": "WeRide Inc.",
+  "contract": "0xb200000000000000000000e88EFe88D8aDE3f0dA",
+  "isin": "US9509151083",
+  "multiplier": 1,
+  "totalSupply": 7504,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 3.12,
+    "change24h": 0.32,
+    "change6h": -1.36,
+    "change1h": null,
+    "volume24h": 98.94,
+    "liquidityUsd": 40710.37,
+    "dex": "aerodrome",
+    "pairAddress": "0xbc440AFf9A79cCed69d5B21c7B71e60BD0278EFB",
+    "url": "https://dexscreener.com/base/0xbc440aff9a79cced69d5b21c7b71e60bd0278efb"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": 1.28,
+    "liquidity": 19,
+    "nav": 0,
+    "adoption": 60
+  },
+  "score": 17,
+  "verdict": "Neutral",
+  "reasons": [
+    "Momentum: 24h +0.32%",
+    "Market health: 24h vol $$99, liquidity $$40.7K",
+    "NAV: no NAV reference available",
+    "Adoption: supply 7.5K tokens"
+  ],
+  "riskFlags": [
+    "thin liquidity (< $100K)",
+    "very low 24h volume (< $10K)",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xa0e2d149fc88910c28050e0c432879f5db5076287f6b816ada7c45d0638d6258"
+}

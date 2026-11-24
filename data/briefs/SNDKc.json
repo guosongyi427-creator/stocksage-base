@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "SNDKc",
+  "name": "Sandisk Corporation",
+  "contract": "0xb200000000000000000000397293Cb8cda9a10c5",
+  "isin": "US80004C2008",
+  "multiplier": 8,
+  "totalSupply": 3159.53853669,
+  "navPrice": 702.33671848,
+  "navUpdatedAt": "2026-11-24T06:34:54Z",
+  "dex": {
+    "priceUsd": 705.56,
+    "change24h": 4.97,
+    "change6h": null,
+    "change1h": 0.64,
+    "volume24h": 33997219.94,
+    "liquidityUsd": 1539696.02,
+    "dex": "aero",
+    "pairAddress": "0x2836e062a3fe75943a7F4A552E2365b98E414E75",
+    "url": "https://dexscreener.com/base/0x2836e062a3fe75943a7f4a552e2365b98e414e75"
+  },
+  "premiumPct": 0.4589367799217218,
+  "components": {
+    "momentum": 19.88,
+    "liquidity": 98,
+    "nav": 80,
+    "adoption": 42
+  },
+  "score": 59,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h +4.97%",
+    "Market health: 24h vol $$34.00M, liquidity $$1.54M",
+    "NAV: tracks NAV tightly (0.46%)",
+    "Adoption: supply 3.2K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x31a3c8c2253772ada19afbe3cf39c481823061c95bd3d3ad7bf164c9b61d301e"
+}

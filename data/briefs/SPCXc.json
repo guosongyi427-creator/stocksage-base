@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "SPCXc",
+  "name": "Space Exploration Technologies Corp.",
+  "contract": "0xb2000000000000000000007b9fcbd005511aCBd5",
+  "isin": "US84615Q1031",
+  "multiplier": 1,
+  "totalSupply": 30461.07064765,
+  "navPrice": 134.49651946,
+  "navUpdatedAt": "2026-11-24T04:47:33Z",
+  "dex": {
+    "priceUsd": 134.56,
+    "change24h": 2.13,
+    "change6h": 0.1,
+    "change1h": -0.12,
+    "volume24h": 13845792.52,
+    "liquidityUsd": 1165604.61,
+    "dex": "aero",
+    "pairAddress": "0x880dB7Dda4407D99508574E680d067D1164B3cFE",
+    "url": "https://dexscreener.com/base/0x880db7dda4407d99508574e680d067d1164b3cfe"
+  },
+  "premiumPct": 0.04719864889803333,
+  "components": {
+    "momentum": 8.52,
+    "liquidity": 97,
+    "nav": 80,
+    "adoption": 92
+  },
+  "score": 65,
+  "verdict": "Strong watch",
+  "reasons": [
+    "Momentum: 24h +2.13%",
+    "Market health: 24h vol $$13.85M, liquidity $$1.17M",
+    "NAV: tracks NAV tightly (0.05%)",
+    "Adoption: supply 30.5K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xcb53ea5da4f5532cdb3e39453455d160610442aac74ee6a5858c545bf6fb6d2c"
+}

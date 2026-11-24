@@ -1,0 +1,47 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "DJTc",
+  "name": "Trump Media & Technology Group Corp.",
+  "contract": "0xb200000000000000000000428E3a3eebBb20692B",
+  "isin": "US25400Q1058",
+  "multiplier": 1,
+  "totalSupply": 9780.91291285,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 4.17,
+    "change24h": null,
+    "change6h": null,
+    "change1h": null,
+    "volume24h": 0.05,
+    "liquidityUsd": 44.59,
+    "dex": "uniswap",
+    "pairAddress": "0xd956fb3ea061e605763832614cff19f4f8f4d98b7c5959d5e25b19a4da57026c",
+    "url": "https://dexscreener.com/base/0xd956fb3ea061e605763832614cff19f4f8f4d98b7c5959d5e25b19a4da57026c"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": 0,
+    "liquidity": 0,
+    "nav": 0,
+    "adoption": 66
+  },
+  "score": 13,
+  "verdict": "Neutral",
+  "reasons": [
+    "Momentum: no 24h change data",
+    "Market health: 24h vol $$0, liquidity $$45",
+    "NAV: no NAV reference available",
+    "Adoption: supply 9.8K tokens"
+  ],
+  "riskFlags": [
+    "thin liquidity (< $100K)",
+    "very low 24h volume (< $10K)",
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x6b652cd6b7d3e0ead566427bd5e4611dae5e12ffc5f6cb0a6cc604203a16a8e7"
+}

@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "AAPLc",
+  "name": "Apple Inc.",
+  "contract": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+  "isin": "US0378331005",
+  "multiplier": 1.0005003893019802,
+  "totalSupply": 5897.22411184,
+  "navPrice": 350.49029387,
+  "navUpdatedAt": "2026-11-23T19:31:58Z",
+  "dex": {
+    "priceUsd": 351.16,
+    "change24h": 1.52,
+    "change6h": 0.47,
+    "change1h": 0.16,
+    "volume24h": 8270089.15,
+    "liquidityUsd": 420783.25,
+    "dex": "aero",
+    "pairAddress": "0xF5FCB9CDAFcE67d50AfEf298F88E709d2B946BA6",
+    "url": "https://dexscreener.com/base/0xf5fcb9cdafce67d50afef298f88e709d2b946ba6"
+  },
+  "premiumPct": 0.19107694042118287,
+  "components": {
+    "momentum": 6.08,
+    "liquidity": 91,
+    "nav": 80,
+    "adoption": 55
+  },
+  "score": 56,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h +1.52%",
+    "Market health: 24h vol $$8.27M, liquidity $$420.8K",
+    "NAV: tracks NAV tightly (0.19%)",
+    "Adoption: supply 5.9K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x3ef6bfd078bb50e427ec922a90dca88c1aabe2ae04e1647e61fd83d452aa047b"
+}

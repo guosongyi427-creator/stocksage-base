@@ -1,0 +1,45 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "NFLXc",
+  "name": "Netflix Inc",
+  "contract": "0xb20000000000000000000058B8c947e44011dFE6",
+  "isin": "US64110L1061",
+  "multiplier": 1,
+  "totalSupply": 8383.98804665,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 58.19,
+    "change24h": 1.64,
+    "change6h": 0.15,
+    "change1h": -0.03,
+    "volume24h": 2239097.77,
+    "liquidityUsd": 310223.17,
+    "dex": "aero",
+    "pairAddress": "0x67Ba8dBeDC6D7f93f0F5967Aa2420715f1edC756",
+    "url": "https://dexscreener.com/base/0x67ba8dbedc6d7f93f0f5967aa2420715f1edc756"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": 6.56,
+    "liquidity": 86,
+    "nav": 0,
+    "adoption": 63
+  },
+  "score": 36,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h +1.64%",
+    "Market health: 24h vol $$2.24M, liquidity $$310.2K",
+    "NAV: no NAV reference available",
+    "Adoption: supply 8.4K tokens"
+  ],
+  "riskFlags": [
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0x95581d2392aeabbb4c134dc6ecc3ddea6fa376c001870b14ff7a4aada4271967"
+}

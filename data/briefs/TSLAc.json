@@ -1,0 +1,43 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "TSLAc",
+  "name": "Tesla Inc.",
+  "contract": "0xb2000000000000000000001e800a7f5189430cD0",
+  "isin": "US88160R1014",
+  "multiplier": 1,
+  "totalSupply": 6162.03995169,
+  "navPrice": 387.04962421,
+  "navUpdatedAt": "2026-11-24T05:02:18Z",
+  "dex": {
+    "priceUsd": 387.87,
+    "change24h": 8.03,
+    "change6h": 0.21,
+    "change1h": 0.05,
+    "volume24h": 7629911.18,
+    "liquidityUsd": 424198.38,
+    "dex": "aero",
+    "pairAddress": "0x7A33000372f3F028f074182CCb9d16cBEEfBF920",
+    "url": "https://dexscreener.com/base/0x7a33000372f3f028f074182ccb9d16cbeefbf920"
+  },
+  "premiumPct": 0.21195622955957352,
+  "components": {
+    "momentum": 32.12,
+    "liquidity": 92,
+    "nav": 80,
+    "adoption": 56
+  },
+  "score": 64,
+  "verdict": "Strong watch",
+  "reasons": [
+    "Momentum: 24h +8.03%",
+    "Market health: 24h vol $$7.63M, liquidity $$424.2K",
+    "NAV: tracks NAV tightly (0.21%)",
+    "Adoption: supply 6.2K tokens"
+  ],
+  "riskFlags": [],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xf876479eea28765525a968d25cc98f68914d9a935743570b073e3bfe4ce3bc08"
+}

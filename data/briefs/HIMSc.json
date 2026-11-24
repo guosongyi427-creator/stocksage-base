@@ -1,0 +1,45 @@
+{
+  "agent": "StockSage",
+  "version": 1,
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "symbol": "HIMSc",
+  "name": "Hims & Hers Health, Inc.",
+  "contract": "0xB20000000000000000000043a599976181Bcf336",
+  "isin": "US4330001060",
+  "multiplier": 1,
+  "totalSupply": 21051.74060202,
+  "navPrice": null,
+  "navUpdatedAt": null,
+  "dex": {
+    "priceUsd": 15.19,
+    "change24h": -0.28,
+    "change6h": 0.44,
+    "change1h": -0.12,
+    "volume24h": 1933567.34,
+    "liquidityUsd": 253396.99,
+    "dex": "aero",
+    "pairAddress": "0x41D7793FAa4Ca181B6f021423fF3F9015C00b2ff",
+    "url": "https://dexscreener.com/base/0x41d7793faa4ca181b6f021423ff3f9015c00b2ff"
+  },
+  "premiumPct": null,
+  "components": {
+    "momentum": -1.12,
+    "liquidity": 84,
+    "nav": 0,
+    "adoption": 83
+  },
+  "score": 37,
+  "verdict": "Watch",
+  "reasons": [
+    "Momentum: 24h -0.28%",
+    "Market health: 24h vol $$1.93M, liquidity $$253.4K",
+    "NAV: no NAV reference available",
+    "Adoption: supply 21.1K tokens"
+  ],
+  "riskFlags": [
+    "no Chainlink NAV reference configured"
+  ],
+  "disclaimer": "Research only, not investment advice. Tokenized stocks are volatile; DEX prices can deviate from the Chainlink NAV reference. Do your own research.",
+  "contentHash": "0xcdb407d991129580fcec70e679194a0a865a6c178b5877a1a5363a5749533e1f"
+}
