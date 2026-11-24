@@ -1,0 +1,240 @@
+{
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "anchors": [
+    {
+      "symbol": "NVDAc",
+      "contentHash": "0x8e9dd1e16787c3c7a2daf127bca1b8ed524df1fb2b150bc8abf5bff70217dbda",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "GOOGLc",
+      "contentHash": "0x3a0920f60641a3753a6166cb2a118a62dcd1f68150047a826a7c6b963b2a53ee",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "SPCXc",
+      "contentHash": "0xcb53ea5da4f5532cdb3e39453455d160610442aac74ee6a5858c545bf6fb6d2c",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "MSTRc",
+      "contentHash": "0xb6d6c6415751ddf84dcb2ffb6fe1dabbf50ee7808f17cbb2d7f5ca9d50a19b0f",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "HIMSc",
+      "contentHash": "0xcdb407d991129580fcec70e679194a0a865a6c178b5877a1a5363a5749533e1f",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "ANTc",
+      "contentHash": "0xcda25e118993172f5c5ab59ab43652ed12c897fed42d41906665dda81aad94eb",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "NIOc",
+      "contentHash": "0xc63601920942c0b3bd3c5d97ca0fee7fabf0c9414b49aeef95d53329e23b696f",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "DJTc",
+      "contentHash": "0x6b652cd6b7d3e0ead566427bd5e4611dae5e12ffc5f6cb0a6cc604203a16a8e7",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "AMZNc",
+      "contentHash": "0x0ab9b561d2b239fb8b2336b30cb395ea8de6b8811a2155f0896beac60494141d",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "AMCc",
+      "contentHash": "0xf21b7038494c314f1bf27b1b9f8269cb5cbda726c21fb066822d67246974ba6b",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "METAc",
+      "contentHash": "0xec9caec7cf29b53acf8033ab3ec6d04adb753f3feb86df8572b6c822f0075676",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "NFLXc",
+      "contentHash": "0x95581d2392aeabbb4c134dc6ecc3ddea6fa376c001870b14ff7a4aada4271967",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "WRDc",
+      "contentHash": "0xa0e2d149fc88910c28050e0c432879f5db5076287f6b816ada7c45d0638d6258",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "GMEc",
+      "contentHash": "0x86bc66b8beb8c917977fc5fa9d6eb19213eb3d38fccf21368a2b99bfddae8282",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "NOKc",
+      "contentHash": "0x87179f9f75453dcebf35c23cec810231e7801418c807069d93858b405586186f",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "TSLAc",
+      "contentHash": "0xf876479eea28765525a968d25cc98f68914d9a935743570b073e3bfe4ce3bc08",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "AAPLc",
+      "contentHash": "0x3ef6bfd078bb50e427ec922a90dca88c1aabe2ae04e1647e61fd83d452aa047b",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "VALEc",
+      "contentHash": "0x24d580b20ad911fb0881694fa0848a2e68987d15825b346b3e3417773e262d0a",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "SNDKc",
+      "contentHash": "0x31a3c8c2253772ada19afbe3cf39c481823061c95bd3d3ad7bf164c9b61d301e",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    },
+    {
+      "symbol": "AAOIc",
+      "contentHash": "0xcde2f8a14a6b53cd4a5979729ce0272db6c2055c435f20c524da7787ecf30430",
+      "status": "skipped",
+      "reason": "no REGISTRY_ADDRESS in .env (contract not deployed yet)"
+    }
+  ],
+  "digest": {
+    "runId": "2026-11-24T06-47-32Z",
+    "generatedAt": "2026-11-24T06:47:32.979Z",
+    "universe": 415,
+    "covered": 20,
+    "topGainers24h": [
+      {
+        "symbol": "NVDAc",
+        "change24h": 21.87,
+        "price": 163.55
+      },
+      {
+        "symbol": "AAOIc",
+        "change24h": 13.11,
+        "price": 39.44
+      },
+      {
+        "symbol": "TSLAc",
+        "change24h": 8.03,
+        "price": 387.87
+      },
+      {
+        "symbol": "NOKc",
+        "change24h": 5.16,
+        "price": 7.54
+      },
+      {
+        "symbol": "SNDKc",
+        "change24h": 4.97,
+        "price": 705.56
+      }
+    ],
+    "topLosers24h": [
+      {
+        "symbol": "ANTc",
+        "change24h": -5.87,
+        "price": 86.025
+      },
+      {
+        "symbol": "MSTRc",
+        "change24h": -2.14,
+        "price": 82.45
+      },
+      {
+        "symbol": "NIOc",
+        "change24h": -1.14,
+        "price": 2.54
+      },
+      {
+        "symbol": "HIMSc",
+        "change24h": -0.28,
+        "price": 15.19
+      },
+      {
+        "symbol": "GMEc",
+        "change24h": 0.01,
+        "price": 27.0026
+      }
+    ],
+    "bestScores": [
+      {
+        "symbol": "NVDAc",
+        "score": 91,
+        "verdict": "Strong watch"
+      },
+      {
+        "symbol": "GOOGLc",
+        "score": 68,
+        "verdict": "Strong watch"
+      },
+      {
+        "symbol": "SPCXc",
+        "score": 65,
+        "verdict": "Strong watch"
+      },
+      {
+        "symbol": "TSLAc",
+        "score": 64,
+        "verdict": "Strong watch"
+      },
+      {
+        "symbol": "METAc",
+        "score": 62,
+        "verdict": "Strong watch"
+      }
+    ],
+    "worstScores": [
+      {
+        "symbol": "GMEc",
+        "score": 12,
+        "verdict": "Neutral"
+      },
+      {
+        "symbol": "AMCc",
+        "score": 13,
+        "verdict": "Neutral"
+      },
+      {
+        "symbol": "DJTc",
+        "score": 13,
+        "verdict": "Neutral"
+      },
+      {
+        "symbol": "VALEc",
+        "score": 16,
+        "verdict": "Neutral"
+      },
+      {
+        "symbol": "WRDc",
+        "score": 17,
+        "verdict": "Neutral"
+      }
+    ]
+  }
+}

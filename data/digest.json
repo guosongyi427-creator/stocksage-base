@@ -1,0 +1,114 @@
+{
+  "runId": "2026-11-24T06-47-32Z",
+  "generatedAt": "2026-11-24T06:47:32.979Z",
+  "universe": 415,
+  "covered": 20,
+  "topGainers24h": [
+    {
+      "symbol": "NVDAc",
+      "change24h": 21.87,
+      "price": 163.55
+    },
+    {
+      "symbol": "AAOIc",
+      "change24h": 13.11,
+      "price": 39.44
+    },
+    {
+      "symbol": "TSLAc",
+      "change24h": 8.03,
+      "price": 387.87
+    },
+    {
+      "symbol": "NOKc",
+      "change24h": 5.16,
+      "price": 7.54
+    },
+    {
+      "symbol": "SNDKc",
+      "change24h": 4.97,
+      "price": 705.56
+    }
+  ],
+  "topLosers24h": [
+    {
+      "symbol": "ANTc",
+      "change24h": -5.87,
+      "price": 86.025
+    },
+    {
+      "symbol": "MSTRc",
+      "change24h": -2.14,
+      "price": 82.45
+    },
+    {
+      "symbol": "NIOc",
+      "change24h": -1.14,
+      "price": 2.54
+    },
+    {
+      "symbol": "HIMSc",
+      "change24h": -0.28,
+      "price": 15.19
+    },
+    {
+      "symbol": "GMEc",
+      "change24h": 0.01,
+      "price": 27.0026
+    }
+  ],
+  "bestScores": [
+    {
+      "symbol": "NVDAc",
+      "score": 91,
+      "verdict": "Strong watch"
+    },
+    {
+      "symbol": "GOOGLc",
+      "score": 68,
+      "verdict": "Strong watch"
+    },
+    {
+      "symbol": "SPCXc",
+      "score": 65,
+      "verdict": "Strong watch"
+    },
+    {
+      "symbol": "TSLAc",
+      "score": 64,
+      "verdict": "Strong watch"
+    },
+    {
+      "symbol": "METAc",
+      "score": 62,
+      "verdict": "Strong watch"
+    }
+  ],
+  "worstScores": [
+    {
+      "symbol": "GMEc",
+      "score": 12,
+      "verdict": "Neutral"
+    },
+    {
+      "symbol": "AMCc",
+      "score": 13,
+      "verdict": "Neutral"
+    },
+    {
+      "symbol": "DJTc",
+      "score": 13,
+      "verdict": "Neutral"
+    },
+    {
+      "symbol": "VALEc",
+      "score": 16,
+      "verdict": "Neutral"
+    },
+    {
+      "symbol": "WRDc",
+      "score": 17,
+      "verdict": "Neutral"
+    }
+  ]
+}
