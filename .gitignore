@@ -1,0 +1,5 @@
+node_modules/
+.env
+data/briefs/*.json
+!data/briefs/.gitkeep
+.DS_Store
